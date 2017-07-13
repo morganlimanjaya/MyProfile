@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="name">Name</string>
+    <string name="gpa">GPA</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="programming">You like Android Programming ?</string>
+    <string name="yesAnswer">Yes</string>
+</resources>
+
